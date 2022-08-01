@@ -31,9 +31,9 @@ a {
 }
 
 #text {
-    width: 500px;
+    width: 400px;
     height: 425px;
-    left: 60px;
+    left: 100px;
     top: 52px;
     position: absolute;
     text-indent: 2em;
