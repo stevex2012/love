@@ -33,9 +33,11 @@ a {
 #text {
     width: 400px;
     height: 425px;
-    left: 140px;
+    left: 100px;
     top: 52px;
     position: absolute;
+    text-indent: 2em;
+    font-size: 18px;
 }
 
 #code {
@@ -84,9 +86,11 @@ a {
 }
 
 .say {
-    margin-left: -86px;
+    /* margin-left: -86px; */
+    text-indent: 2em;;
 }
 
 .space {
     margin-right: 150px;
+    
 }
